@@ -1,5 +1,5 @@
-Hello this is the first line
-world this is the seconde line
-Planet this is the third line
+Hello this is the first of all lines
+world this is the seconde  new line
+Planet this is the third  new line
 earth this is the fourth line
 universe this is the fifth line
